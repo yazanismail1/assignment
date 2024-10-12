@@ -38,6 +38,11 @@ docker run --name mysql-syarah -e MYSQL_ROOT_PASSWORD=root_password -e MYSQL_DAT
 php yii migrate
 ```
 
+## To create an admin user
+```
+php yii user/create-admin "username" "email@example.com" "password"
+```
+
 ## Serving the application
 
 **Dashboard :** 

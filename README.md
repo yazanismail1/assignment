@@ -4,7 +4,7 @@ Car Store</h1>
     <br>
 </p>
 
-This documentation is dedicated to work you through this application from cloning to setting it up and serving it on your local machine.
+This documentation is dedicated to walk you through this application from cloning to setting it up and serving it on your local machine.
 
 ## Video Walkthrough
 
@@ -21,6 +21,10 @@ For a step-by-step video for the end result of the assignment:
 `composer install`
 
 `php init`
+
+```
+docker run --name mysql-syarah -e MYSQL_ROOT_PASSWORD=root_password -e MYSQL_DATABASE=syarah_project -e MYSQL_USER=yazan -e MYSQL_PASSWORD=password -p 3306:3306 -d mysql:latest
+```
 
 `php yii migrate`
 

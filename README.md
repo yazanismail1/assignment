@@ -6,9 +6,9 @@ Car Store</h1>
 
 This documentation is dedicated to walk you through this application from cloning to setting it up and serving it on your local machine.
 
-## Video Walkthrough
+## Demo Video
 
-For a step-by-step video for the end result of the assignment:
+A demo video visualize the final output from the assignment:
 
 [Watch the video](https://drive.google.com/file/d/1pdQXJt6vjjuzfJnG5g65OY5_hugYMa4l/view?usp=sharing)
 

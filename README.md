@@ -14,7 +14,28 @@ For a step-by-step video for the end result of the assignment:
 
 
 ## Cloning the application
+**Using SSH :** `git clone git@github.com:yazanismail1/assignment.git`
 
 ## Initializing the application
 
+`composer install`
+
+`php init`
+
+`php yii migrate`
+
+## Serving the application
+
+**Dashboard :** `php yii serve --docroot=dashboard/web`
+
+**Storefront :** `php yii serve --docroot=storefront/web`
+
+## Executing the background tasks
+
+**To execute on demand:** `php yii queue/run`
+
+**To auto listing:** `php yii queue/listen [timeout]`
+
 ## Setting up your local DB using docker
+
+`docker run --name mysql-syarah -e MYSQL_ROOT_PASSWORD=root_password -e MYSQL_DATABASE=syarah_project -e MYSQL_USER=yazan -e MYSQL_PASSWORD=password -p 3306:3306 -d mysql:latest`

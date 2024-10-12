@@ -1,0 +1,3 @@
+id,title,make,model,price,year,mileage,status
+1,2012 Audi A3, Audi, A3, 25000, 2012, 67000, sold
+2,2011 Mercedes-Benz A-Class, Mercedes-Benz, A-Class, 12500, 2011, 57127, available

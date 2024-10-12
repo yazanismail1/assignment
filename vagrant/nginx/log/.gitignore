@@ -1,0 +1,5 @@
+# nginx logs
+dashboard-access.log
+dashboard-error.log
+storefront-access.log
+storefront-error.log

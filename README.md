@@ -10,7 +10,9 @@ This documentation is dedicated to walk you through this application from clonin
 
 For a step-by-step video for the end result of the assignment:
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://drive.google.com/file/d/1pdQXJt6vjjuzfJnG5g65OY5_hugYMa4l/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1pdQXJt6vjjuzfJnG5g65OY5_hugYMa4l/view?usp=sharing)](https://drive.google.com/file/d/1pdQXJt6vjjuzfJnG5g65OY5_hugYMa4l/view?usp=sharing)
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1pdQXJt6vjjuzfJnG5g65OY5_hugYMa4l/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Cloning the application
